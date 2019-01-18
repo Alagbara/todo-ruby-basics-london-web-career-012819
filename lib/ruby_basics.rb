@@ -8,7 +8,8 @@ name = "Bob"
   
 end
 
-def argue
+def argue(argument)
+  argument
   
 end
 
