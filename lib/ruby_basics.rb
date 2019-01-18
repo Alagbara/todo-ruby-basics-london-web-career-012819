@@ -1,8 +1,10 @@
 def division(num1, num2)
- 
+ 12/2
 end
 
 def assign_variable(value)
+  
+name = "Bob"
   
 end
 
